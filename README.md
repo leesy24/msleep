@@ -15,9 +15,17 @@ Utility to sleep in milliseconds.
 ```
 $ . env_10.03.1.sh
 ```
-* for OpenWrt 15.05.1
+* for OpenWrt 15.05.1 64
 ```
-$ . env_15.05.1.sh
+$ . env_15.05.1_x86_64.sh
+```
+* for OpenWrt 15.05.1 generic
+```
+$ . env_15.05.1_x86_generic.sh
+```
+* for OpenWrt 15.05.1 geode
+```
+$ . env_15.05.1_x86_geode.sh
 ```
 3. Build
 ```
